@@ -1,5 +1,10 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+tags: 
+categories: 
+toc: true
+comments:
+thumbnail: images/default.jpg
+banner:
 ---
